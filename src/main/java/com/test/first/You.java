@@ -6,6 +6,7 @@ public class You {
     System.out.println("LOL");
     System.out.println();
     System.out.println();
+    System.out.println();
   }
 
 }
